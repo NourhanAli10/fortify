@@ -71,7 +71,6 @@
                             placeholder="Confirm Password">
                     </div>
                </div>
-
             </div>
             <div class="row">
                 <div class="text-right">
